@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aayushad46
 - 👀 I’m interested in coding and stock trading.
 - 🌱 I’m currently learning both front and back-end development.
-- 💞️ I’m looking to collaborate on .....
+- 💞️ I’m looking to collaborate on .....nothing right now.I'm still learning.
 - 📫 How to reach me? just mail me at aayushad91@gmail.com
 
 <!---
