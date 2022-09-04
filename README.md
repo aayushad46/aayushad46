@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aayushad46
-- 👀 I’m interested in programming and stock trading.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning both front and back-end development.
 - 📫 How to reach me? just mail me at aayushad91@gmail.com
 
